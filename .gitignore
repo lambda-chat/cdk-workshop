@@ -149,3 +149,5 @@ test/**/*.js
 bin/**/*.d.ts
 lib/**/*.d.ts
 test/**/*.d.ts
+
+cdk.out/
